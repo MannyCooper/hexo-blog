@@ -1,6 +1,6 @@
 # hexo-blog
 - Rendered pages powered by [Hexo](https://github.com/hexojs/hexo) for MannyCooper's blog
-- Edited based on [hexo-theme-Icarus](https://github.com/ppoffice/hexo-theme-icarus)
+- Theme edited based on [hexo-theme-Icarus](https://github.com/ppoffice/hexo-theme-icarus)
 - Deployed on [Vercel](vercel.com) with ❤️
 
 ## Extra Npm Package Needed:
