@@ -87,6 +87,27 @@ article.media .title {
   margin: 4px !important;
   padding: 9.5px !important;
 }
+.el-button--primary.is-disabled,
+.el-button--primary.is-disabled:active,
+.el-button--primary.is-disabled:focus,
+.el-button--primary.is-disabled:hover {
+  background-color: RGB(255, 114, 134) !important;
+  border-color: RGB(255, 114, 134) !important;
+}
+.el-button--primary {
+  background-color: #ff2d55 !important;
+  border-color: #ff2d55 !important;
+}
+.tk-action-link[data-v-8d454e16],
+.tk-action-icon[data-v-8d454e16] svg {
+  fill: #ff2d55 !important;
+  color: #ff2d55 !important;
+}
+.el-input.is-active .el-input__inner,
+.el-input__inner:focus,
+.el-textarea__inner:focus {
+  border-color: #ff2d55 !important;
+}
 /* Motion Design
 ---------------------------------------------------------------- */
 a.navbar-item:focus,
