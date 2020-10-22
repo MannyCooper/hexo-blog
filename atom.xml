@@ -6,7 +6,7 @@
   <link href="http://www.anzifan.com/atom.xml" rel="self"/>
   
   <link href="http://www.anzifan.com/"/>
-  <updated>2020-10-19T14:12:50.653Z</updated>
+  <updated>2020-10-16T18:06:20.819Z</updated>
   <id>http://www.anzifan.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.anzifan.com/2020/09/15/hello-world/"/>
-    <id>http://www.anzifan.com/2020/09/15/hello-world/</id>
-    <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-10-19T14:12:50.653Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><p><progress class="progress is-info" value="20" max="100"></progress><br><progress class="progress is-success" value="40" max="100"></progress><br><progress class="progress is-warning" value="60" max="100"></progress><br><progress class="progress is-danger" value="80" max="100"></progress><br><progress class="progress is-info" max="100"></progress></p><figure class="highlight python"><figcaption><span>测试.py www.baidu.com baidu</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br></pre></td></tr></table></figure><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> nps</span><br><span class="line">np.load(<span class="string">&#x27;xx.txt&#x27;</span>)</span><br></pre></td></tr></table></figure><figure class="highlight python"><figcaption><span>测试.py >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> nps</span><br><span class="line">np.load(<span class="string">&#x27;xx.txt&#x27;</span>)</span><br></pre></td></tr></table></figure><p>测试以下 $\frac{x^2}{2y}$ 行内公式</p><p>$$DCG_{n}=rel_{1}+\sum\limits_{i=2}^{n}\frac{rel_{i}}{log_{2}i}$$</p><p><strong>引用:</strong></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>脚注测试 <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="测试" scheme="http://www.anzifan.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-    <category term="你好" scheme="http://www.anzifan.com/tags/%E4%BD%A0%E5%A5%BD/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -73,10 +52,31 @@
   
   <entry>
     <title>Hello World</title>
+    <link href="http://www.anzifan.com/2020/09/15/hello-world/"/>
+    <id>http://www.anzifan.com/2020/09/15/hello-world/</id>
+    <published>2020-09-14T20:34:14.146Z</published>
+    <updated>2020-10-19T14:12:50.653Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><p><progress class="progress is-info" value="20" max="100"></progress><br><progress class="progress is-success" value="40" max="100"></progress><br><progress class="progress is-warning" value="60" max="100"></progress><br><progress class="progress is-danger" value="80" max="100"></progress><br><progress class="progress is-info" max="100"></progress></p><figure class="highlight python"><figcaption><span>测试.py www.baidu.com baidu</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br></pre></td></tr></table></figure><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> nps</span><br><span class="line">np.load(<span class="string">&#x27;xx.txt&#x27;</span>)</span><br></pre></td></tr></table></figure><figure class="highlight python"><figcaption><span>测试.py >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> nps</span><br><span class="line">np.load(<span class="string">&#x27;xx.txt&#x27;</span>)</span><br></pre></td></tr></table></figure><p>测试以下 $\frac{x^2}{2y}$ 行内公式</p><p>$$DCG_{n}=rel_{1}+\sum\limits_{i=2}^{n}\frac{rel_{i}}{log_{2}i}$$</p><p><strong>引用:</strong></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>脚注测试 <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="http://www.anzifan.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="你好" scheme="http://www.anzifan.com/tags/%E4%BD%A0%E5%A5%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
     <link href="http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC3/"/>
     <id>http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC3/</id>
     <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-10-20T21:24:54.697Z</updated>
+    <updated>2020-10-22T19:16:24.402Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><h2 id="Quick-Start">Quick Start</h2><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> envId</span><br><span class="line"><span class="keyword">try</span> &#123;</span><br><span class="line">  envId = fs.readFileSync(<span class="string">&#x27;./envId.txt&#x27;</span>).toString().trim()</span><br><span class="line">&#125; <span class="keyword">catch</span> (e) &#123;</span><br><span class="line">  <span class="keyword">throw</span> <span class="keyword">new</span> <span class="built_in">Error</span>(<span class="string">&#x27;无法读取环境id，请先配置 envId.txt&#x27;</span>)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> defaultFunctionConfig = &#123;</span><br><span class="line">  <span class="comment">// 超时时间</span></span><br><span class="line">  timeout: <span class="number">10</span>,</span><br><span class="line">  <span class="comment">// 环境变量</span></span><br><span class="line">  envVariables: &#123;&#125;,</span><br><span class="line">  runtime: <span class="string">&#x27;Nodejs10.15&#x27;</span>,</span><br><span class="line">  <span class="comment">// 内存 128</span></span><br><span class="line">  memorySize: <span class="number">128</span>,</span><br><span class="line">  handler: <span class="string">&#x27;index.main&#x27;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="built_in">module</span>.exports = &#123;</span><br><span class="line">  envId: envId,</span><br><span class="line">  functionRoot: <span class="string">&#x27;./src/function&#x27;</span>,</span><br><span class="line">  functions: [</span><br><span class="line">    &#123; <span class="attr">name</span>: <span class="string">&#x27;comment-get&#x27;</span>, ...defaultFunctionConfig &#125;,</span><br><span class="line">    &#123; <span class="attr">name</span>: <span class="string">&#x27;comment-like&#x27;</span>, ...defaultFunctionConfig &#125;,</span><br><span class="line">    &#123; <span class="attr">name</span>: <span class="string">&#x27;comment-submit&#x27;</span>, ...defaultFunctionConfig &#125;,</span><br><span class="line">    &#123; <span class="attr">name</span>: <span class="string">&#x27;counter-get&#x27;</span>, ...defaultFunctionConfig &#125;</span><br><span class="line">  ]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-serversa">Run serversa</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -93,7 +93,7 @@
     <link href="http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC4/"/>
     <id>http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC4/</id>
     <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-10-21T19:10:40.665Z</updated>
+    <updated>2020-10-22T19:16:32.930Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-servers">Run servers</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><img src="http://alfalfastudio.com/wp-content/uploads/2018/07/tumblr_opqqxeqPIh1tvppquo1_1280.gif" style="width:50%" /><img  src="http://alfalfastudio.com/wp-content/uploads/2018/07/rolly_rocket_by_valenberg-d9y6rvp.gif" alt="1.4.5" style="border-radius=15px"><p>$$\Phi_{F}=\frac{k_{r}^{S}}{k_{r}^{S}+k_{\mathrm{nr}}^{S}}=k_{r}^{S} \tau_{S}$$</p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><a class="tag is-dark is-medium" href="https://www.vecteezy.com/free-vector/vector-landscape" target="_blank"><span class="icon"><i class="fas fa-camera"></i></span>&nbsp;&nbsp;Vector Landscape Vectors by Vecteezy</a>]]></content>
     
@@ -110,7 +110,7 @@
     <link href="http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC5/"/>
     <id>http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC5/</id>
     <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-10-20T21:25:06.600Z</updated>
+    <updated>2020-10-22T19:16:53.568Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -127,7 +127,7 @@
     <link href="http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC6/"/>
     <id>http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC6/</id>
     <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-10-20T21:25:16.366Z</updated>
+    <updated>2020-10-22T19:16:36.472Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -161,7 +161,7 @@
     <link href="http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC8/"/>
     <id>http://www.anzifan.com/2020/09/15/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC8/</id>
     <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-09-15T15:22:24.274Z</updated>
+    <updated>2020-10-22T19:11:57.808Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
