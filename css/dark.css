@@ -281,10 +281,7 @@ body.dark {
   border-color: #ff375f;
   background-color: #3a3a3c;
 }
-.dark .el-button:focus .card:hover,
-.dark .el-button:hover .card:hover,
-.dark .el-button:focus .card-image a,
-.dark .el-button:hover .card-image a {
+.dark .card:hover .card-image a {
   -webkit-filter: brightness(70%);
   filter: brightness(70%);
 }
