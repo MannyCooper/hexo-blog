@@ -97,6 +97,23 @@ body.dark {
 .dark figure.highlight .gutter {
   background: #3a3a3c;
 }
+.dark pre {
+  background-color: #2c2c2e !important;
+}
+.dark article.article .content code {
+  background: #2c2c2e !important;
+}
+.dark .content table thead td,
+.dark .content table thead th {
+  color: #fff !important;
+}
+.dark .content blockquote {
+  background-color: #2c2c2e !important;
+  border-left: 15px solid #3a3a3c !important;
+}
+.dark .caption {
+  color: #48484a;
+}
 .dark .fill_dark {
   visibility: visible;
 }
