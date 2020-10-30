@@ -29,9 +29,6 @@ figure.highlight .gutter {
 figure.highlight .highlight-body {
   margin: 0.7rem;
 }
-article.article .content code {
-  background: #fafafa !important;
-}
 code {
   border-radius: 8px;
   margin: 2px;
@@ -12006,9 +12003,6 @@ body.dark {
 }
 .dark pre {
   background-color: #2c2c2e !important;
-}
-.dark article.article .content code {
-  background: #2c2c2e !important;
 }
 .dark .content table thead td,
 .dark .content table thead th {

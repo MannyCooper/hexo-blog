@@ -100,9 +100,6 @@ body.dark {
 .dark pre {
   background-color: #2c2c2e !important;
 }
-.dark article.article .content code {
-  background: #2c2c2e !important;
-}
 .dark .content table thead td,
 .dark .content table thead th {
   color: #fff !important;
