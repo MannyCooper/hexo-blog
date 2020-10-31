@@ -33,11 +33,13 @@ code {
   border-radius: 8px;
   margin: 2px;
   padding: 0.25em 0.5em 0.25em !important;
+  background-color: #fafafa !important;
 }
 pre code {
   border-radius: 0px !important;
   margin: 0px !important;
   padding: 0px !important;
+  background-color: transparent !important;
 }
 .code-type {
   position: absolute;
@@ -179,6 +181,9 @@ article.media .title {
   background-color: rgba(1,1,1,0.5) !important;
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
+}
+.help {
+  color: #aeaeb2;
 }
 /* Motion Design
 ---------------------------------------------------------------- */
@@ -657,7 +662,7 @@ code,
 pre {
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: auto;
-  font-family: menlo, monospace;
+  font-family: SF Mono, Meno, monospace;
 }
 body {
   color: #4a4a4a;
@@ -1315,7 +1320,7 @@ a.has-text-grey-lightest:focus {
   font-family: monospace !important;
 }
 .is-family-code {
-  font-family: menlo, monospace !important;
+  font-family: SF Mono, Meno, monospace !important;
 }
 .is-block {
   display: block !important;
@@ -11525,7 +11530,7 @@ figure.highlight figcaption * {
 }
 figure.highlight figcaption span {
   font-weight: 500;
-  font-family: menlo, monospace;
+  font-family: SF Mono, Meno, monospace;
 }
 figure.highlight figcaption .level-left *:not(:last-child) {
   margin-right: 0.5em;
@@ -12005,6 +12010,12 @@ body.dark {
 .dark pre {
   background-color: #2c2c2e !important;
 }
+.dark code {
+  background-color: #2c2c2e !important;
+}
+.dark pre code {
+  background-color: transparent !important;
+}
 .dark .content table thead td,
 .dark .content table thead th {
   color: #fff !important;
@@ -12107,6 +12118,9 @@ body.dark {
   box-shadow: 0 0 0 !important;
 }
 .dark input::placeholder {
+  color: #636366;
+}
+.dark .help {
   color: #636366;
 }
 .dark .timeline {

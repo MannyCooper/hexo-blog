@@ -26,11 +26,13 @@ code {
   border-radius: 8px;
   margin: 2px;
   padding: 0.25em 0.5em 0.25em !important;
+  background-color: #fafafa !important;
 }
 pre code {
   border-radius: 0px !important;
   margin: 0px !important;
   padding: 0px !important;
+  background-color: transparent !important;
 }
 .code-type {
   position: absolute;
@@ -172,6 +174,9 @@ article.media .title {
   background-color: rgba(1,1,1,0.5) !important;
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
+}
+.help {
+  color: #aeaeb2;
 }
 a.navbar-item:focus,
 .navbar-link:focus,
@@ -11997,6 +12002,12 @@ body.dark {
 .dark pre {
   background-color: #2c2c2e !important;
 }
+.dark code {
+  background-color: #2c2c2e !important;
+}
+.dark pre code {
+  background-color: transparent !important;
+}
 .dark .content table thead td,
 .dark .content table thead th {
   color: #fff !important;
@@ -12099,6 +12110,9 @@ body.dark {
   box-shadow: 0 0 0 !important;
 }
 .dark input::placeholder {
+  color: #636366;
+}
+.dark .help {
   color: #636366;
 }
 .dark .timeline {
