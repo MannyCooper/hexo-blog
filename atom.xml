@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>异次元电台</title>
+  <title>安子璠的个人主页</title>
   <icon>https://anzifan.com/icon.png</icon>
   
   <link href="https://anzifan.com/atom.xml" rel="self"/>
   
   <link href="https://anzifan.com/"/>
-  <updated>2020-10-30T15:21:15.779Z</updated>
+  <updated>2020-10-29T19:08:39.565Z</updated>
   <id>https://anzifan.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://anzifan.com/2020/09/15/hello-world/"/>
-    <id>https://anzifan.com/2020/09/15/hello-world/</id>
-    <published>2020-09-14T20:34:14.146Z</published>
-    <updated>2020-10-30T15:21:15.779Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><p><progress class="progress is-info" value="20" max="100"></progress><br><progress class="progress is-success" value="40" max="100"></progress><br><progress class="progress is-warning" value="60" max="100"></progress><br><progress class="progress is-danger" value="80" max="100"></progress><br><progress class="progress is-info" max="100"></progress></p><pre><div class="caption"><span>测试.py</span></div><code class="hljs Python"><span class="hljs-keyword">import</span> pandas <span class="hljs-keyword">as</span> pd</code></pre><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><h3 id="Run-server">Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><pre><code class="hljs python"><span class="hljs-keyword">import</span> numpy <span class="hljs-keyword">as</span> npsnp.load(<span class="hljs-string">&#x27;xx.txt&#x27;</span>)</code></pre><pre><div class="caption"><span>测试.py</span></div><code class="hljs python"><span class="hljs-keyword">import</span> numpy <span class="hljs-keyword">as</span> npsnp.load(<span class="hljs-string">&#x27;xx.txt&#x27;</span>)</code></pre><p>测试以下 $\frac{x^2}{2y}$ 行内公式</p><p>$$DCG_{n}=rel_{1}+\sum\limits_{i=2}^{n}\frac{rel_{i}}{log_{2}i}$$</p><div class="menu-list is-size-6"><a target="_blank" rel="noopener" href="https://hexo.io/docs/index.html"><i class="fas fa-bookmark mr-2"></i> Hexo documentation</a></div><p><strong>引用:</strong></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>脚注测试 <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="测试" scheme="https://anzifan.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-    <category term="你好" scheme="https://anzifan.com/tags/%E4%BD%A0%E5%A5%BD/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -102,6 +81,27 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://anzifan.com/2020/09/15/hello-world/"/>
+    <id>https://anzifan.com/2020/09/15/hello-world/</id>
+    <published>2020-09-14T20:34:14.146Z</published>
+    <updated>2020-10-30T15:21:15.779Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><a id="more"></a><p><progress class="progress is-info" value="20" max="100"></progress><br><progress class="progress is-success" value="40" max="100"></progress><br><progress class="progress is-warning" value="60" max="100"></progress><br><progress class="progress is-danger" value="80" max="100"></progress><br><progress class="progress is-info" max="100"></progress></p><pre><div class="caption"><span>测试.py</span></div><code class="hljs Python"><span class="hljs-keyword">import</span> pandas <span class="hljs-keyword">as</span> pd</code></pre><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><h3 id="Run-server">Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><pre><code class="hljs python"><span class="hljs-keyword">import</span> numpy <span class="hljs-keyword">as</span> npsnp.load(<span class="hljs-string">&#x27;xx.txt&#x27;</span>)</code></pre><pre><div class="caption"><span>测试.py</span></div><code class="hljs python"><span class="hljs-keyword">import</span> numpy <span class="hljs-keyword">as</span> npsnp.load(<span class="hljs-string">&#x27;xx.txt&#x27;</span>)</code></pre><p>测试以下 $\frac{x^2}{2y}$ 行内公式</p><p>$$DCG_{n}=rel_{1}+\sum\limits_{i=2}^{n}\frac{rel_{i}}{log_{2}i}$$</p><div class="menu-list is-size-6"><a target="_blank" rel="noopener" href="https://hexo.io/docs/index.html"><i class="fas fa-bookmark mr-2"></i> Hexo documentation</a></div><p><strong>引用:</strong></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>脚注测试 <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="https://anzifan.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="你好" scheme="https://anzifan.com/tags/%E4%BD%A0%E5%A5%BD/"/>
     
   </entry>
   
