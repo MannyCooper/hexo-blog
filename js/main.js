@@ -2,24 +2,31 @@
 (function($, moment, ClipboardJS, config) {
     $('.article img:not(".not-gallery-item")').each(function() {
         // wrap images with link and add caption if possible
-        if ($(this).parent('a').length === 0) {
+        if ($(this).parent('a').length === 0) { 
+            if ($(this).parent('picture').length !== 0){
+                // $(this).parent('picture').wrap('<a class="gallery-item" href="' + $(this).attr('src') + '"></a>');
+                $(this).parent('picture').wrap('<a class="gallery-item"></a>');
+            }
+            else{
             $(this).wrap('<a class="gallery-item" href="' + $(this).attr('src') + '"></a>');
+            }
             if (this.alt) {
                 $(this).after('<p class="has-text-centered is-size-6 caption">' + this.alt + '</p>');
             }
         }
     });
-
+    
     if (typeof $.fn.lightGallery === 'function') {
         $('.article').lightGallery({ selector: '.gallery-item' });
     }
+
     if (typeof $.fn.justifiedGallery === 'function') {
         if ($('.justified-gallery > p > .gallery-item').length) {
             $('.justified-gallery > p > .gallery-item').unwrap();
         }
         $('.justified-gallery').justifiedGallery();
     }
-
+    
     if (typeof moment === 'function') {
         $('.article-meta time').each(function() {
             $(this).text(moment($(this).attr('datetime')).fromNow());
@@ -140,5 +147,11 @@
         if ($(this).parent().is("pre")) {
         $(this).before("<p class='code-type'>"+ $(this).attr('class').replace('hljs ','') +"</p>")}
     });
+
+    // Add link
+    if ($('.controller').length === 0){
+    $(".card-content.article").each(function(){
+        $(this).wrap('<a class="card-link" href="' + $(this).find('h1 a').attr('href') + '"></a>');
+    })}
     
 }(jQuery, window.moment, window.ClipboardJS, window.IcarusThemeSettings));

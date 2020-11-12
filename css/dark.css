@@ -111,7 +111,7 @@ body.dark {
   color: #fff !important;
 }
 .dark .code-type {
-  color: #808080;
+  color: #808080 !important;
 }
 .dark pre .caption {
   color: #48484a;
@@ -222,8 +222,17 @@ body.dark {
 .dark .timeline .media:last-child:after {
   background: #1d1d1f;
 }
+.dark .breadcrumb li.is-active a {
+  color: #7a7a7a;
+}
 .dark strong {
   color: #fff;
+}
+.dark .message strong {
+  color: currentColor;
+}
+.dark a strong {
+  color: currentColor;
 }
 .dark #dark-nav #dark-icon:before {
   content: "\f0eb";
@@ -285,6 +294,28 @@ body.dark {
 .dark .el-input-group__prepend {
   background-color: #2c2c2e;
   border: 1px solid #2c2c2e;
+  color: #fff;
+}
+.dark .message.is-info {
+  background-color: #202326;
+}
+.dark .message.is-warning {
+  background-color: #262523;
+}
+.dark .message.is-info .message-header {
+  background-color: #00336b;
+}
+.dark .message.is-warning .message-body {
+  color: #e3ae64;
+}
+.dark .message.is-info .message-body {
+  color: #65a1e3;
+}
+.dark .content p {
+  color: #ddd;
+}
+.dark .searchbox .searchbox-result-title,
+.dark .searchbox .searchbox-result-preview {
   color: #fff;
 }
 .dark .el-input.is-active .el-input__inner,
