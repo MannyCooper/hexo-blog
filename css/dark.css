@@ -9,7 +9,7 @@ body.dark {
   background-color: #000;
 }
 .dark .navbar {
-  background: linear-gradient(90deg, #1d1d1f 0%, rgba(29,29,31,0.7) 50%, #1d1d1f 100%) !important;
+  background-color: rgba(29,29,31,0.7) !important;
 }
 .dark .widget .tags .tag:first-child {
   background: #2c2c2e !important;
