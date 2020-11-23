@@ -318,6 +318,11 @@ body.dark {
 .dark .searchbox .searchbox-result-preview {
   color: #fff;
 }
+.dark .tk-tag-green {
+  background-color: #363934 !important;
+  border: 1px solid #373c35 !important;
+  color: #75df41 !important;
+}
 .dark .el-input.is-active .el-input__inner,
 .dark .el-input__inner:focus,
 .dark .el-textarea__inner:focus {

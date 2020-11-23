@@ -253,6 +253,18 @@ article.media .title {
 .content p {
   line-height: 1.8;
 }
+.last_update {
+  float: right;
+}
+.el-loading-mask {
+  background-color: transparent !important;
+}
+.tk-tag-green {
+  border-radius: 8px;
+}
+.tk-admin.__show {
+  border-radius: 12px;
+}
 /* Motion Design
 ---------------------------------------------------------------- */
 a.navbar-item:focus,
@@ -12298,6 +12310,11 @@ body.dark {
 .dark .searchbox .searchbox-result-title,
 .dark .searchbox .searchbox-result-preview {
   color: #fff;
+}
+.dark .tk-tag-green {
+  background-color: #363934 !important;
+  border: 1px solid #373c35 !important;
+  color: #75df41 !important;
 }
 .dark .el-input.is-active .el-input__inner,
 .dark .el-input__inner:focus,
