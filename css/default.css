@@ -795,7 +795,7 @@ button,
 input,
 select,
 textarea {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, Arial, sans-serif;
+  font-family: -apple-system, Arial, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, sans-serif;
 }
 code,
 pre {
@@ -1447,13 +1447,13 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, Arial, sans-serif !important;
+  font-family: -apple-system, Arial, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, sans-serif !important;
 }
 .is-family-secondary {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, Arial, sans-serif !important;
+  font-family: -apple-system, Arial, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, sans-serif !important;
 }
 .is-family-sans-serif {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, Arial, sans-serif !important;
+  font-family: -apple-system, Arial, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, sans-serif !important;
 }
 .is-family-monospace {
   font-family: monospace !important;
@@ -11955,7 +11955,7 @@ figure.highlight .section {
 .cc-window,
 .cc-revoke {
   font-size: 1.1rem !important;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, Arial, sans-serif !important;
+  font-family: -apple-system, Arial, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, Microsoft YaHei, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Helvetica Neue, sans-serif !important;
 }
 .cc-window {
   color: #4a4a4a !important;
