@@ -15,17 +15,25 @@ h5 {
 article.article .content {
   font-size: 16px !important;
 }
-.article-meta .level-left .fa-calendar-alt {
+.article-meta .level-left .level-item {
+  border-radius: 10px;
+  padding: 1px 8px;
+}
+.article-meta .level-left .create-data {
   color: #ff3b30;
+  background-color: #fff1f0;
 }
-.article-meta .level-left .fa-folder-open {
+.article-meta .level-left .cate {
   color: #ff9500;
+  background-color: #fff9f0;
 }
-.article-meta .level-left .fa-clock {
+.article-meta .level-left .read-time {
   color: #007aff;
+  background-color: #f0f7ff;
 }
-.article-meta .level-left .fa-eye {
+.article-meta .level-left .leancloud_visitors {
   color: #34c759;
+  background-color: #f3fcf5;
 }
 .content {
   text-align: justify;
@@ -148,6 +156,9 @@ article.media .image img {
 }
 .gallery-item img {
   border-radius: 15px;
+}
+.gallery-item img.border {
+  border: 1px solid #f1f1f1;
 }
 .message.message-immersive {
   border-radius: 15px !important;
@@ -12310,6 +12321,22 @@ body.dark {
   -webkit-box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.49);
   box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.49);
 }
+.dark .article-meta .level-left .create-data {
+  color: #ff453a;
+  background-color: rgba(15,1,0,0.3);
+}
+.dark .article-meta .level-left .cate {
+  color: #ff9f0a;
+  background-color: rgba(15,9,0,0.3);
+}
+.dark .article-meta .level-left .read-time {
+  color: #0a84ff;
+  background-color: rgba(0,8,15,0.3);
+}
+.dark .article-meta .level-left .leancloud_visitors {
+  color: #30d158;
+  background-color: rgba(3,13,5,0.3);
+}
 .dark .title {
   color: #fff;
 }
@@ -12446,16 +12473,17 @@ body.dark {
   margin-left: 0 !important;
   margin-right: 1.25rem !important;
 }
-.download-icon {
+.level.download-icon {
   color: #000;
   margin-right: -10px;
   float: right;
+  margin-bottom: 0px !important;
 }
-.download-icon .icon {
+.level.download-icon .icon {
   margin-right: 10px;
   border-radius: 999px;
 }
-.download-icon > * {
+.level.download-icon > * {
   fill: #000;
 }
 .dark .download-icon {
@@ -12504,4 +12532,8 @@ small
   .app_recommend .content p small {
     font-size: 10px;
   }
+}
+.small-icon {
+  border-left: 2px transparent solid;
+  border-right: 2px transparent solid;
 }
