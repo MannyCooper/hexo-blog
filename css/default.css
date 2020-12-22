@@ -15,25 +15,17 @@ h5 {
 article.article .content {
   font-size: 16px !important;
 }
-.article-meta .level-left .level-item {
-  border-radius: 10px;
-  padding: 1px 8px;
-}
-.article-meta .level-left .create-data {
+.article-meta .level-left .fa-calendar-alt {
   color: #ff3b30;
-  background-color: #fff1f0;
 }
-.article-meta .level-left .cate {
+.article-meta .level-left .fa-folder-open {
   color: #ff9500;
-  background-color: #fff9f0;
 }
-.article-meta .level-left .read-time {
+.article-meta .level-left .fa-clock {
   color: #007aff;
-  background-color: #f0f7ff;
 }
-.article-meta .level-left .leancloud_visitors {
+.article-meta .level-left .fa-eye {
   color: #34c759;
-  background-color: #f3fcf5;
 }
 .content {
   text-align: justify;
@@ -87,8 +79,7 @@ pre code {
   right: -1.1em;
   margin-top: -15px;
   color: #a9a9a9;
-  font-size: 90%;
-  font-weight: bolder;
+  font-size: 80%;
   margin-bottom: -8px !important;
 }
 pre .caption {
@@ -105,11 +96,20 @@ pre .caption {
   font-weight: 500;
   font-family: Menlo, Monaco, Consolas, "Andale Mono", "lucida console", "Courier New", monospace;
 }
+.callout {
+  padding: 0em 1em 0em 1em;
+  border-radius: 18px;
+  background-color: #f5f5f7;
+}
 .content blockquote {
-  background-color: #fafafa !important;
+  background-color: #f8f8f8 !important;
   border-left: none !important;
   border-radius: 15px;
-  box-shadow: 1px 5px 10px 0 rgba(0,0,0,0.05);
+  margin: 20px 0;
+}
+.content blockquote p {
+  position: relative;
+  font-weight: 500;
 }
 .content blockquote:before {
   content: "“";
@@ -126,10 +126,25 @@ pre .caption {
   float: right;
   position: relative;
   font-size: 500%;
-  top: 34px;
+  top: 43px;
   margin-right: -44px;
   color: #ff2d55;
   line-height: 0px;
+}
+.content blockquote a {
+  color: #7c7c7c;
+  font-size: 10px;
+  position: absolute;
+  right: -15px;
+  top: -15px;
+}
+.content blockquote a:hover {
+  color: #000;
+}
+.content blockquote sup a {
+  color: #ff2d55;
+  font-size: 100%;
+  position: initial;
 }
 .caption {
   color: #7a7a7a;
@@ -270,6 +285,16 @@ article.media .title {
 .article-meta.level.is-mobile .level-item:not(.is-narrow) {
   flex-grow: 0 !important;
 }
+.article-tags.is-size-7.mb-4::before {
+  content: "\f02c";
+  color: #ff2d55;
+  font-family: "Font Awesome 5 Free";
+  margin-left: -20px;
+  margin-right: 6px;
+}
+.article-tags.is-size-7.mb-4 {
+  padding-left: 20px;
+}
 @media screen and (max-width: 768px) {
   .section {
     padding: 1.5rem 0.5rem !important;
@@ -351,6 +376,24 @@ article.media .title {
 }
 .media .media-content .date::after {
   content: "\00a0\00a0";
+}
+.num {
+  margin-right: 8px;
+  color: #ff2d55;
+}
+kbd {
+  color: #242729;
+  background: #fff;
+  border: 1px solid #adb3b9;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(12,13,14,0.2), 0 0 0 2px #fff inset;
+  white-space: nowrap;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  line-height: 10px;
+  border-radius: 4px;
 }
 a.navbar-item:focus,
 .navbar-link:focus,
@@ -12198,6 +12241,9 @@ body.dark {
 .dark .content blockquote {
   background-color: #2c2c2e !important;
 }
+.dark .content blockquote a:hover {
+  color: #fff !important;
+}
 .dark .fill_dark {
   visibility: visible;
 }
@@ -12321,22 +12367,6 @@ body.dark {
   -webkit-box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.49);
   box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.49);
 }
-.dark .article-meta .level-left .create-data {
-  color: #ff453a;
-  background-color: rgba(15,1,0,0.3);
-}
-.dark .article-meta .level-left .cate {
-  color: #ff9f0a;
-  background-color: rgba(15,9,0,0.3);
-}
-.dark .article-meta .level-left .read-time {
-  color: #0a84ff;
-  background-color: rgba(0,8,15,0.3);
-}
-.dark .article-meta .level-left .leancloud_visitors {
-  color: #30d158;
-  background-color: rgba(3,13,5,0.3);
-}
 .dark .title {
   color: #fff;
 }
@@ -12444,6 +12474,20 @@ body.dark {
   color: #ff375f;
   border-color: #ff375f;
   background-color: #3a3a3c;
+}
+.dark .num1 {
+  margin-right: 8px;
+  color: #ff375f;
+}
+.dark .callout {
+  background-color: #3a3a3c;
+}
+.dark kbd {
+  font-size: 0.875rem;
+  background: #2c2c2e;
+  border: 1px solid #141414;
+  box-shadow: 0 2px 0 #141414;
+  color: #d2d3d3;
 }
 .dark .card:hover .card-image a {
   -webkit-filter: brightness(70%);
