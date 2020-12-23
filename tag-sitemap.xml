@@ -3,15 +3,36 @@
 
 
     <url>
+        <loc>https://anzifan.com/tags/Setapp/</loc>
+        <lastmod>2020-12-23T11:07:10.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E6%95%88%E7%8E%87/</loc>
+        <lastmod>2020-12-23T11:07:10.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
-        <lastmod>2020-12-22T08:39:57.138Z</lastmod>
+        <lastmod>2020-12-23T11:07:10.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/macOS/</loc>
+        <lastmod>2020-12-23T11:07:10.650Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://anzifan.com/tags/Windows/</loc>
-        <lastmod>2020-12-22T08:39:57.138Z</lastmod>
+        <lastmod>2020-12-23T11:03:58.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
