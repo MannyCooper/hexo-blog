@@ -6,7 +6,7 @@
   <link href="https://anzifan.com/atom.xml" rel="self"/>
   
   <link href="https://anzifan.com/"/>
-  <updated>2020-12-23T20:45:18.941Z</updated>
+  <updated>2020-12-29T14:31:56.537Z</updated>
   <id>https://anzifan.com/</id>
   
   <author>
@@ -21,16 +21,18 @@
     <link href="https://anzifan.com/post/awesome_trilium/"/>
     <id>https://anzifan.com/post/awesome_trilium/</id>
     <published>2020-12-23T19:33:40.097Z</published>
-    <updated>2020-12-23T20:45:18.941Z</updated>
+    <updated>2020-12-29T14:31:56.537Z</updated>
     
-    <content type="html"><![CDATA[<p>我去，<a href="https://github.com/zadam/trilium">Trilium</a> 也太赞了吧，折腾了这么久，这应该是我梦想中的知识管理软件，在少数派看了 <a href="https://sspai.com/u/idelem/updates">idelem</a> 大佬写的几篇文章，准备开始慢慢学习迁移了。</p><div style="position: absolute;right: 25px;top: 25px;"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F16%2F12%2F04%2Ffbf86b856538b3df9be9c8351c81e014.jpg&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611346258&t=51ca51e0179f49614f3ef83081f38354" style="width: 54px;height: 54px;border-radius: 16px;object-fit: cover;"></div>]]></content>
+    <content type="html"><![CDATA[<div style="position: absolute;right: 25px;top: 25px;"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F16%2F12%2F04%2Ffbf86b856538b3df9be9c8351c81e014.jpg&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611346258&t=51ca51e0179f49614f3ef83081f38354" style="width: 54px;height: 54px;border-radius: 16px;object-fit: cover;"></div><p>我去，<a href="https://github.com/zadam/trilium">Trilium</a> 也太赞了吧，折腾了这么久，这应该是我梦想中的知识管理软件，在少数派看了 <a href="https://sspai.com/u/idelem/updates">idelem</a> 大佬写的几篇文章，准备开始慢慢学习迁移了。</p>]]></content>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;我去，&lt;a href=&quot;https://github.com/zadam/trilium&quot;&gt;Trilium&lt;/a&gt; 也太赞了吧，折腾了这么久，这应该是我梦想中的知识管理软件，在少数派看了 &lt;a</summary>
+    <summary type="html">&lt;div style=&quot;position: absolute;
+right: 25px;
+top: 25px;&quot;&gt;&lt;img</summary>
         
       
     
@@ -118,9 +120,9 @@
     
     <category term="博客主题" scheme="https://anzifan.com/tags/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/"/>
     
-    <category term="交互设计" scheme="https://anzifan.com/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="前端" scheme="https://anzifan.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="交互设计" scheme="https://anzifan.com/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   

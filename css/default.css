@@ -398,6 +398,10 @@ kbd {
   line-height: 10px;
   border-radius: 4px;
 }
+.social_icon {
+  width: 16px;
+  height: 16px;
+}
 a.navbar-item:focus,
 .navbar-link:focus,
 a.navbar-item:focus-within,
@@ -12129,6 +12133,15 @@ details,
 summary {
   margin-bottom: 1rem !important;
 }
+.content p:not(:last-child),
+.content dl:not(:last-child),
+.content ol:not(:last-child),
+.content ul:not(:last-child),
+.content blockquote:not(:last-child),
+.content pre:not(:last-child),
+.content table:not(:last-child) {
+  margin-bottom: 1.4em !important;
+}
 body.dark {
   background-color: #000;
 }
@@ -12606,4 +12619,10 @@ small
 }
 .app_recommend .media {
   position: relative;
+}
+a[href="/post/macOS_setapp_keysmith/"] article {
+  border-top: 1px solid #e6e6e6;
+}
+.dark a[href="/post/macOS_setapp_keysmith/"] article {
+  border-top: none;
 }
