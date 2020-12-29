@@ -9,8 +9,24 @@
 
 
     <url>
-        <loc>https://anzifan.com/post/awesome_trilium/</loc>
-        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
+        <loc>https://anzifan.com/post/icarus_to_candy_2/</loc>
+        <lastmod>2020-12-29T23:11:41.908Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/macOS_control_center/</loc>
+        <lastmod>2020-12-29T21:02:15.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/app_overlap/</loc>
+        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +34,7 @@
 
     <url>
         <loc>https://anzifan.com/post/macOS_setapp_keysmith/</loc>
-        <lastmod>2020-12-23T15:45:39.113Z</lastmod>
+        <lastmod>2020-12-29T20:27:21.328Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,7 +42,7 @@
 
     <url>
         <loc>https://anzifan.com/post/windows_wemod/</loc>
-        <lastmod>2020-12-23T15:43:13.019Z</lastmod>
+        <lastmod>2020-12-29T20:20:17.111Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,7 +50,15 @@
 
     <url>
         <loc>https://anzifan.com/post/icarus_to_candy_1/</loc>
-        <lastmod>2020-12-22T08:17:49.224Z</lastmod>
+        <lastmod>2020-12-29T18:45:24.432Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/awesome_trilium/</loc>
+        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

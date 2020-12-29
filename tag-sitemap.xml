@@ -3,71 +3,113 @@
 
 
     <url>
-        <loc>https://anzifan.com/tags/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86/</loc>
-        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E6%95%88%E7%8E%87/</loc>
-        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
-        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/Setapp/</loc>
-        <lastmod>2020-12-23T15:45:39.113Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/macOS/</loc>
-        <lastmod>2020-12-23T15:45:39.113Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/Windows/</loc>
-        <lastmod>2020-12-23T15:43:13.019Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/</loc>
-        <lastmod>2020-12-22T08:17:49.224Z</lastmod>
+        <loc>https://anzifan.com/tags/%E8%AF%84%E8%AE%BA/</loc>
+        <lastmod>2020-12-29T23:11:41.908Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://anzifan.com/tags/%E5%89%8D%E7%AB%AF/</loc>
-        <lastmod>2020-12-22T08:17:49.224Z</lastmod>
+        <lastmod>2020-12-29T23:11:41.908Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://anzifan.com/tags/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/</loc>
-        <lastmod>2020-12-22T08:17:49.224Z</lastmod>
+        <lastmod>2020-12-29T23:11:41.908Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://anzifan.com/tags/Hexo/</loc>
-        <lastmod>2020-12-22T08:17:49.224Z</lastmod>
+        <lastmod>2020-12-29T23:11:41.908Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E4%B8%80%E6%97%A5%E4%B8%80%E6%8A%80/</loc>
+        <lastmod>2020-12-29T21:02:15.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E7%B3%BB%E7%BB%9F%E6%9D%82%E8%B0%88/</loc>
+        <lastmod>2020-12-29T21:02:15.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/macOS/</loc>
+        <lastmod>2020-12-29T21:02:15.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E4%B8%96%E7%95%8C%E6%97%B6%E9%92%9F/</loc>
+        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/iPadOS/</loc>
+        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/iOS/</loc>
+        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
+        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/Setapp/</loc>
+        <lastmod>2020-12-29T20:27:21.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E6%95%88%E7%8E%87/</loc>
+        <lastmod>2020-12-29T20:27:21.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/Windows/</loc>
+        <lastmod>2020-12-29T20:20:17.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/</loc>
+        <lastmod>2020-12-29T18:45:24.432Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86/</loc>
+        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

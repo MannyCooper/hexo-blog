@@ -174,6 +174,7 @@ article.media .image img {
   margin-left: auto;
   margin-right: auto;
   display: block;
+  margin-bottom: 20px;
 }
 .gallery-item img.border {
   border: 1px solid #f1f1f1;
@@ -12130,8 +12131,8 @@ figure.highlight .section {
 .subtitle:not(:last-child),
 .block:not(:last-child),
 .highlight:not(:last-child),
-details,
-summary {
+details:not(:last-child),
+summary:not(:last-child) {
   margin-bottom: 1rem !important;
 }
 .content p:not(:last-child),
@@ -12140,8 +12141,18 @@ summary {
 .content ul:not(:last-child),
 .content blockquote:not(:last-child),
 .content pre:not(:last-child),
-.content table:not(:last-child) {
+.content table:not(:last-child),
+h3 {
   margin-bottom: 1.4em !important;
+}
+.controller + .card article h1 {
+  line-height: 42px !important;
+  margin-bottom: 30px !important;
+}
+h2 {
+  margin-top: 47px !important;
+  margin-bottom: 26px !important;
+  line-height: 140% !important;
 }
 body.dark {
   background-color: #000;
