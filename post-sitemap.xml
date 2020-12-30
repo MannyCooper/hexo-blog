@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://anzifan.com/post/one_piece_1000/</loc>
+        <lastmod>2020-12-30T09:56:24.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/awesome_trilium/</loc>
+        <lastmod>2020-12-30T09:51:25.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://anzifan.com/post/icarus_to_candy_2/</loc>
         <lastmod>2020-12-30T07:24:48.383Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -51,14 +67,6 @@
     <url>
         <loc>https://anzifan.com/post/icarus_to_candy_1/</loc>
         <lastmod>2020-12-29T18:45:24.432Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/post/awesome_trilium/</loc>
-        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>https://anzifan.com/tags/%E6%B5%B7%E8%B4%BC%E7%8E%8B/</loc>
+        <lastmod>2020-12-30T09:56:24.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E6%BC%AB%E7%94%BB/</loc>
+        <lastmod>2020-12-30T09:56:24.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86/</loc>
+        <lastmod>2020-12-30T09:51:25.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E6%95%88%E7%8E%87/</loc>
+        <lastmod>2020-12-30T09:51:25.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
+        <lastmod>2020-12-30T09:51:25.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://anzifan.com/tags/%E8%AF%84%E8%AE%BA/</loc>
         <lastmod>2020-12-30T07:24:48.383Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,21 +108,7 @@
     </url>
 
     <url>
-        <loc>https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
-        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://anzifan.com/tags/Setapp/</loc>
-        <lastmod>2020-12-29T20:27:21.328Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E6%95%88%E7%8E%87/</loc>
         <lastmod>2020-12-29T20:27:21.328Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -103,13 +124,6 @@
     <url>
         <loc>https://anzifan.com/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/</loc>
         <lastmod>2020-12-29T18:45:24.432Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86/</loc>
-        <lastmod>2020-12-29T14:31:56.537Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
