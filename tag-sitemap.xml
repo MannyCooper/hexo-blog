@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://anzifan.com/tags/%E8%AF%84%E8%AE%BA/</loc>
+        <lastmod>2020-12-31T16:57:52.082Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E5%89%8D%E7%AB%AF/</loc>
+        <lastmod>2020-12-31T16:57:52.082Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/</loc>
+        <lastmod>2020-12-31T16:57:52.082Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/tags/Hexo/</loc>
+        <lastmod>2020-12-31T16:57:52.082Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://anzifan.com/tags/%E6%B5%B7%E8%B4%BC%E7%8E%8B/</loc>
         <lastmod>2020-12-30T10:06:02.195Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,34 +61,6 @@
     <url>
         <loc>https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
         <lastmod>2020-12-30T09:51:25.735Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E8%AF%84%E8%AE%BA/</loc>
-        <lastmod>2020-12-30T07:24:48.383Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E5%89%8D%E7%AB%AF/</loc>
-        <lastmod>2020-12-30T07:24:48.383Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/</loc>
-        <lastmod>2020-12-30T07:24:48.383Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/tags/Hexo/</loc>
-        <lastmod>2020-12-30T07:24:48.383Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
