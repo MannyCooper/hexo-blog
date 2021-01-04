@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://anzifan.com/post/icarus_to_candy_1/</loc>
+        <lastmod>2021-01-04T14:19:36.035Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/icarus_to_candy_2/</loc>
+        <lastmod>2021-01-04T14:14:05.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/app_overlap/</loc>
+        <lastmod>2021-01-04T14:07:36.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://anzifan.com/post/windows_wemod/</loc>
+        <lastmod>2021-01-04T13:44:24.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://anzifan.com/post/one_piece_1000/</loc>
         <lastmod>2021-01-03T09:11:10.536Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +51,6 @@
     <url>
         <loc>https://anzifan.com/post/ios_shortcuts_wallpaper/</loc>
         <lastmod>2021-01-03T09:08:48.767Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/post/icarus_to_candy_2/</loc>
-        <lastmod>2021-01-02T17:55:00.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -49,32 +73,8 @@
     </url>
 
     <url>
-        <loc>https://anzifan.com/post/app_overlap/</loc>
-        <lastmod>2020-12-29T20:52:41.470Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://anzifan.com/post/macOS_setapp_keysmith/</loc>
         <lastmod>2020-12-29T20:27:21.328Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/post/windows_wemod/</loc>
-        <lastmod>2020-12-29T20:20:17.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://anzifan.com/post/icarus_to_candy_1/</loc>
-        <lastmod>2020-12-29T18:45:24.432Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
