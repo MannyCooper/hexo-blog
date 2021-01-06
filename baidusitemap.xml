@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://anzifan.com/post/macOS_setapp_keysmith/</loc>
+    <lastmod>2021-01-05</lastmod>
+  </url>
+  <url>
     <loc>https://anzifan.com/post/icarus_to_candy_1/</loc>
     <lastmod>2021-01-04</lastmod>
   </url>
@@ -30,10 +34,6 @@
   </url>
   <url>
     <loc>https://anzifan.com/post/macOS_control_center/</loc>
-    <lastmod>2020-12-29</lastmod>
-  </url>
-  <url>
-    <loc>https://anzifan.com/post/macOS_setapp_keysmith/</loc>
     <lastmod>2020-12-29</lastmod>
   </url>
 </urlset> 
