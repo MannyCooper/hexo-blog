@@ -112,9 +112,9 @@
     <category term="工具" scheme="https://anzifan.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="iOS" scheme="https://anzifan.com/tags/iOS/"/>
-    
     <category term="软件推荐" scheme="https://anzifan.com/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="iOS" scheme="https://anzifan.com/tags/iOS/"/>
     
     <category term="macOS" scheme="https://anzifan.com/tags/macOS/"/>
     
@@ -398,8 +398,8 @@ top: 25px;&quot;&gt;&lt;img</summary>
   
   <entry>
     <title>创造 CANDY 主题，只为更好的交互</title>
-    <link href="https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC7/"/>
-    <id>https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC7/</id>
+    <link href="https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC6/"/>
+    <id>https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC6/</id>
     <published>2020-11-18T22:00:00.000Z</published>
     <updated>2021-02-10T17:04:13.935Z</updated>
     
@@ -425,8 +425,8 @@ top: 25px;&quot;&gt;&lt;img</summary>
   
   <entry>
     <title>创造 CANDY 主题，只为更好的交互</title>
-    <link href="https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC6/"/>
-    <id>https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC6/</id>
+    <link href="https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC7/"/>
+    <id>https://anzifan.com/post/test%E7%9A%84%E5%89%AF%E6%9C%AC7/</id>
     <published>2020-11-18T22:00:00.000Z</published>
     <updated>2021-02-10T17:04:13.935Z</updated>
     
