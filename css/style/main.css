@@ -62,6 +62,13 @@ section {
     width: 87.5%;
   }
 }
+img.lazy {
+  transition: filter 375ms ease-in 0.25s;
+}
+img.lazy:not(.loaded) {
+  filter: blur(8px);
+  padding-bottom: 40%;
+}
 .content-card {
   background-color: var(--bg-content-color);
   max-width: var(--content-width);
@@ -1320,7 +1327,7 @@ summary:not(:last-child) {
   display: flex;
   display: inline-block;
   height: 54px;
-  padding: 15px 10px;
+  padding: 17px 10px;
 }
 .header .header__right .navbar__menus .navbar-menu {
   padding: 0px 10px;
@@ -1361,6 +1368,7 @@ summary:not(:last-child) {
   outline-color: none;
   outline-style: none;
   outline-width: 0px;
+  align-items: center;
 }
 .header .header__right .dropdown-icon * {
   width: 20px;
@@ -1408,7 +1416,7 @@ summary:not(:last-child) {
     display: none !important;
   }
   .dropdown-icon {
-    display: block !important;
+    display: flex !important;
   }
 }
 .navbar__menus a:hover svg {
