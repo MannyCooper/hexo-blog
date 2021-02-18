@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://anzifan.com/categories/</loc>
+        <lastmod>2021-02-17T04:19:53.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://anzifan.com/tags/</loc>
         <lastmod>2021-02-13T04:20:01.743Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +30,6 @@
     <url>
         <loc>https://anzifan.com/friends/</loc>
         <lastmod>2021-02-13T04:19:34.431Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://anzifan.com/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D%25E6%2596%2587%25E4%25BB%25B6%25E5%25A4%25B9/</loc>
-        <lastmod>2021-02-11T15:49:22.349Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
